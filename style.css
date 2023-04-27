@@ -1,0 +1,43 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+input{
+margin-left: 30%;    
+margin-top: 14%;
+background-color: white;
+height: 2.8rem;
+width: 40%;
+box-shadow: rgba(0, 0, 0, 0.2) 1px 1px 3px 1px;
+border: none;
+border-radius: 5rem;
+color: #000000ff;;
+font-size: inherit;
+font-weight: 540;
+padding:1px 3rem;
+outline: 0;
+position: relative;
+}
+input :hover{
+    background-color: #ffffffff;
+}
+
+#logo{
+    position: relative;
+    top: 10rem;
+    left: 40%;
+    forced-color-adjust: none;
+    height: 92px;
+    width: 272px;
+}
+#search{
+    position: absolute;
+    margin-top: 12.6rem;
+    margin-left: -33rem;
+}
+.mic{
+    position: absolute;
+    margin-top: 12.6rem;
+    margin-left: -3rem;
+}
